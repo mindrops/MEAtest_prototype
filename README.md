@@ -1,1 +1,1 @@
-# MEAtest_prototype
+# 慶應義塾大学藤井進也研究会MME班専用
